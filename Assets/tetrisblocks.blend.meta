@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: d142b71ff8b5940d3999a7c0ef39fea8
+timeCreated: 1475348502
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: //RootNode
+    100018: container
+    100020: L
+    100022: L_1
+    100024: long
+    100026: tetromino-i
+    100028: tetromino-j
+    100030: tetromino-l
+    100032: tetromino-s
+    100034: tetromino-t
+    100036: tetromino-z
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: //RootNode
+    400018: container
+    400020: L
+    400022: L_1
+    400024: long
+    400026: tetromino-i
+    400028: tetromino-j
+    400030: tetromino-l
+    400032: tetromino-s
+    400034: tetromino-t
+    400036: tetromino-z
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: container
+    2300018: L
+    2300020: L_1
+    2300022: long
+    2300024: tetromino-i
+    2300026: tetromino-j
+    2300028: tetromino-l
+    2300030: tetromino-s
+    2300032: tetromino-t
+    2300034: tetromino-z
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: container
+    3300018: L
+    3300020: L_1
+    3300022: long
+    3300024: tetromino-i
+    3300026: tetromino-j
+    3300028: tetromino-l
+    3300030: tetromino-s
+    3300032: tetromino-t
+    3300034: tetromino-z
+    4300000: Cube_007
+    4300002: Cube_006
+    4300004: Cube_005
+    4300006: Cube_004
+    4300008: Cube_003
+    4300010: Cube_002
+    4300012: Cube_001
+    4300014: Cube
+    4300016: long
+    4300018: container
+    4300020: L
+    4300022: L_1
+    4300024: tetromino-i
+    4300026: tetromino-l
+    4300028: tetromino-s
+    4300030: tetromino-z
+    4300032: tetromino-t
+    4300034: tetromino-j
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
